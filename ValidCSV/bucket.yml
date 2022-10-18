@@ -1,6 +1,0 @@
-flows:
-  f70cd66d-d8da-472a-8ab1-cffbdc216e4b: {ver: 1, file: FlowFile.snapshot, comments: Init
-      Flow, author: anonymous, created: 1666136330731, flowName: FlowFile, flowDesc: CSV
-      de test}
-layoutVer: 1
-bucketId: 6a19d50b-11c2-4939-828e-d531f5e6b588
