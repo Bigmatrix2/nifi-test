@@ -1,0 +1,6 @@
+flows:
+  5a66cf61-17b7-4e4f-b75f-732ec7b6fd80: {ver: 1, file: CSVflow.snapshot, comments: 'Init
+      Flow Commit ', author: anonymous, created: 1666137527772, flowName: CSVflow,
+    flowDesc: Moyen de transfert de nifi à nifi_registry}
+layoutVer: 1
+bucketId: 2065fc31-ee5a-4ccb-a314-5485e59a5c9e
