@@ -1,4 +1,7 @@
 flows:
+  f70cd66d-d8da-472a-8ab1-cffbdc216e4b: {ver: 1, file: FlowFile.snapshot, comments: Init
+      Flow, author: anonymous, created: 1666136330731, flowName: FlowFile, flowDesc: CSV
+      de test}
   2f9ac937-78ef-4d1c-b8a9-2d830be5ea78: {ver: 1, file: FlowCSV.snapshot, comments: '',
     author: anonymous, created: 1666135578894, flowName: FlowCSV, flowDesc: Flux de
       mon fichier CSV}
