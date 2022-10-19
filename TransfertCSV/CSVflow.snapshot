@@ -150,12 +150,12 @@
             "y" : -624.0
           },
           "properties" : {
-            "validate-csv-schema" : "Unique(), Strlen(6)",
+            "validate-csv-schema" : "Unique(), Strlen(7)",
             "validate-csv-eol" : "\\n",
             "validate-csv-delimiter" : ";",
             "validate-csv-header" : "true",
             "validate-csv-quote" : "\"",
-            "validate-csv-strategy" : "FlowFile validation"
+            "validate-csv-strategy" : "Line by line validation"
           },
           "propertyDescriptors" : {
             "validate-csv-schema" : {
